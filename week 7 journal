@@ -1,0 +1,4 @@
+This week, I used AI mainly to help me with my project. I asked it to give me a clear structure I could follow to stay organized and complete everything on time. 
+The AI suggested breaking my project into three stages: planning, implementation, and testing/documentation. I also asked for ideas for functions I could include, and it helped me come up with options like add_record(), search_record(), update_record(), and validate_id().  In addition, I told the AI to explain a few programming concepts I didn’t understand, such as the difference between validation and debugging. It explained that validation prevents errors before they happen, 
+while debugging fixes them after they occur. 
+The AI also showed me how to write proper docstrings for my functions. Overall, using AI made it easier to plan my project, understand coding concepts, and stay on track . Here is the chat for it https://chatgpt.com/c/69093b55-aad0-832c-b1ba-92d6aebdfeae
